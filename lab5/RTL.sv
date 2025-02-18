@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
 // Company: 
@@ -48,3 +49,6 @@ module lab5(
   assign bl4= (a[0]&(~b[0]));
   assign bl= bl1 | bl2 | bl3 | bl4;
 endmodule
+=======
+
+>>>>>>> 345d7086b5ff8a53fa6741c6d949de7f42a3a8c0
